@@ -26,7 +26,7 @@ A Node.js Express application demonstrating different types of API authenticatio
 1. Clone or download the project
 2. Navigate to the project directory:
    ```bash
-   cd "2. Back-End/5.4 API Authentication"
+   cd "directory of the porject"
    ```
 3. Install dependencies:
    ```bash
@@ -134,3 +134,4 @@ ISC
 ## Author
 
 Created as part of a web development course project.
+
